@@ -7,7 +7,7 @@ This is learning project, and any one can understand if he has basic knowledge a
 
 what i have used in this project 
 - [Styled component](https://www.npmjs.com/package/styled-components) 
-- unsplashed api
+- [unsplashed api](https://unsplash.com/developers)
 
 
 ## Installation
@@ -17,12 +17,12 @@ download node module
 npm install
 ```
 
-you will need to have access key for this project to run
+you will need to have access key for this project,to run
 click on this api [API](https://unsplash.com/developers)
 - create account 
 - create app 
 - after creating go down to copy "Access Key" mention below 
-- create the .env file in home section 
+- create the .env file in home file structure 
 - create a variable name [REACT_APP_ACCESS_KEY]
 - add access key to it 
 
