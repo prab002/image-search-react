@@ -1,5 +1,3 @@
-### Image Search Using react and unsplash Api 
-
 # Image Search Using react and unsplash Api
 ##  _ you will need to create unsplash Api for it _
 
